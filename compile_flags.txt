@@ -1,0 +1,1 @@
+-Iraylib/src -Iraygui/src -IrlImGui/ -Iimgui/ -Lraylib/src/ -Limgui -limgui -lraylib
